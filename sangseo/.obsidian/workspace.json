@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "0a7e2b2a075f7fc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "11f0b1d5442a83c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a54d5fc45ae17d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.B2BR/02.B2BR_Reload/04.sudo/04-1.sudo(오류 메시지).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccd53ad5ae1ac394",
+    "type": "split",
+    "children": [
+      {
+        "id": "01bf4f73db98674e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ab48582d978971",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30a71dea735b74cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d151e614dd2c11c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64312dfb471930c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4271ee4b1f28d3cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bcd0ffa7a87e75c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00.B2BR/02.B2BR_Reload/04.sudo/04-1.sudo(오류 메시지).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5035281b73c34336",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00.B2BR/02.B2BR_Reload/04.sudo/04-1.sudo(오류 메시지).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25d624b66be6979f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af23bc91a4ad28a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.B2BR/02.B2BR_Reload/04.sudo/04-1.sudo(오류 메시지).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a54d5fc45ae17d46",
+  "lastOpenFiles": [
+    "00.B2BR/02.B2BR_Reload/03.비밀번호/03-2.비밀번호_정책_2.md",
+    "00.B2BR/02.B2BR_Reload/03.비밀번호/03-1.비밀번호_정책_1.md",
+    "무제임.md",
+    "00.B2BR/02.B2BR_Reload/07.디펜스/디펜스 jinyjeon.md",
+    "00.B2BR/02.B2BR_Reload/07.디펜스/디펜스.md",
+    "00.B2BR/02.B2BR_Reload/07.디펜스/09.로키 데비안/로키와 데비안의 차이.md",
+    "00.B2BR/02.B2BR_Reload/04.sudo/04-3.sudo그룹.md",
+    "00.B2BR/02.B2BR_Reload/04.sudo/04-2.sudoreplay.md",
+    "00.B2BR/02.B2BR_Reload/01.포트포워딩 접근/01-2.ufw 4242 port.md",
+    "00.B2BR/02.B2BR_Reload/01.포트포워딩 접근/01-3.sshd 4242 port.md",
+    "00.B2BR/02.B2BR_Reload/01.포트포워딩 접근/01-5.외부에서 가상머신 접근.md",
+    "00.B2BR/02.B2BR_Reload/01.포트포워딩 접근/01-4.virtualBox 포트포워딩.md",
+    "B2BR_jinyjeon.md",
+    "00.B2BR/02.B2BR_Reload/05.monitoring/06-01.cron.md",
+    "00.B2BR/01-1_B2BR/00.born2beroot_번역.md",
+    "00.B2BR/02.B2BR_Reload/01.포트포워딩 접근/01-1.ufw방화벽 올리기.md",
+    "00.B2BR/02.B2BR_Reload/07.디펜스/07.ufw/00-00.ufw.md",
+    "00.B2BR/02.B2BR_Reload/su 그룹 제한.md",
+    "00.B2BR/02.B2BR_Reload/volume_add.md",
+    "create a link.md",
+    "link.md",
+    "notion.so.md",
+    "Welcome.md",
+    "00.B2BR/02.B2BR_Reload/05.monitoring/05-09.LVM_use.md",
+    "00.B2BR/02.B2BR_Reload/05.monitoring/05-08.Last_reboot.md",
+    "00.B2BR/02.B2BR_Reload/05.monitoring/05-07.CPU_load.md",
+    "00.B2BR/02.B2BR_Reload/데비안 설치 안내서.pdf",
+    "Pasted image 20240415001656.png",
+    "Pasted image 20240414235600.png"
+  ]
+}
